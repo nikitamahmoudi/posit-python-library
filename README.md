@@ -1,4 +1,4 @@
-# Posit Library
+# Posit Python Library
 
 A Python library for posit number representation.
 
@@ -7,7 +7,7 @@ A Python library for posit number representation.
 You can install the library using pip:
 
 ```bash
-pip install posit-library
+pip install posit-python-library
 ```
 
 ## Usage
