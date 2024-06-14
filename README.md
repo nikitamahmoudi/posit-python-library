@@ -2,6 +2,12 @@
 
 A Python library for posit number representation.
 
+## Features
+
+- Create posit numbers from integer and floating-point values.
+- Perform arithmetic operations on posit numbers (addition, subtraction, multiplication, division).
+- Convert between posit numbers and floating-point values.
+
 ## Installation
 
 You can install the library using pip:
