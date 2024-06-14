@@ -9,7 +9,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Niki Mahmoudi',
     author_email='niki.mahmoudi22@gmail.com',
-    url='https://github.com/nikitamahmoudi/posit-python-library',  # Replace with your actual URL
+    url='https://github.com/nikitamahmoudi/posit-python-library',
     license='MIT',
     classifiers=[
         'Programming Language :: Python :: 3',
